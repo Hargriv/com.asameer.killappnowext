@@ -51,7 +51,8 @@ This release consolidates all optimized branches into a single distribution hub:
 
 ## ☕ Support & Donations
 If you appreciate the work put into optimizing and maintaining this project, consider supporting the developer:
-* **PayPal:** [https://www.paypal.com/donate/?hosted_button_id=RY8JBBKVMX956](projecthksystems@gmail.com)
+* **PayPal:** [https://www.paypal.com/donate/?hosted_button_id=RY8JBBKVMX956]
+* **PayPal Email:**  [projecthksystems@gmail.com]
 
 ---
 
